@@ -1002,5 +1002,6 @@
   "VFX_AZIMUTH_WEST": "Azimuth West",
   "VFX_AZIMUTH_TRANSITION": "Azimuth Transition",
   "VFX_ZENITH": "Zenith",
-  "VFX_STARS_INTENSITY": "Stars Intensity"
+  "VFX_STARS_INTENSITY": "Stars Intensity",
+  "KEEP_FLASH_MODE": "Flash Mode"
 }

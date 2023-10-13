@@ -1071,5 +1071,6 @@
     "VFX_AZIMUTH_WEST": "Azimute Oeste",
     "VFX_AZIMUTH_TRANSITION": "Transição de Azimute",
     "VFX_ZENITH": "Zenite",
-    "VFX_STARS_INTENSITY": "Intensidade das Estrelas"
+    "VFX_STARS_INTENSITY": "Intensidade das Estrelas",
+    "KEEP_FLASH_MODE": "Modo Flash"
 }
