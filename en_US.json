@@ -1003,5 +1003,8 @@
   "VFX_AZIMUTH_TRANSITION": "Azimuth Transition",
   "VFX_ZENITH": "Zenith",
   "VFX_STARS_INTENSITY": "Stars Intensity",
-  "KEEP_FLASH_MODE": "Flash Mode"
+  "KEEP_FLASH_MODE": "Flash Mode",
+  "tptowpauto": "Auto Teleport to Waypoint",
+  "waypointtp": "Teleport to Waypoint",
+  "objectivetp": "Teleport to Objective"
 }

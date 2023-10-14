@@ -1072,5 +1072,8 @@
     "VFX_AZIMUTH_TRANSITION": "Transição de Azimute",
     "VFX_ZENITH": "Zenite",
     "VFX_STARS_INTENSITY": "Intensidade das Estrelas",
-    "KEEP_FLASH_MODE": "Modo Flash"
+    "KEEP_FLASH_MODE": "Modo Flash",
+    "tptowpauto": "Sempre Teleportar no Waypoint",
+    "waypointtp": "Teleportar para Waypoint",
+    "objectivetp": "Teleportar para Objetivo"
 }
